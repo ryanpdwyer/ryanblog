@@ -4,70 +4,70 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://ryanpdwyer.github.io/index.html</loc>
-<lastmod>2014-07-28T09:26:03-00:00</lastmod>
+<loc>http://ryanpdwyer.github.io/ryanblog/index.html</loc>
+<lastmod>2014-07-28T09:31:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/archives.html</loc>
-<lastmod>2014-07-28T09:26:03-00:00</lastmod>
+<loc>http://ryanpdwyer.github.io/ryanblog/archives.html</loc>
+<lastmod>2014-07-28T09:31:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/tags.html</loc>
-<lastmod>2014-07-28T09:26:03-00:00</lastmod>
+<loc>http://ryanpdwyer.github.io/ryanblog/tags.html</loc>
+<lastmod>2014-07-28T09:31:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/categories.html</loc>
-<lastmod>2014-07-28T09:26:03-00:00</lastmod>
+<loc>http://ryanpdwyer.github.io/ryanblog/categories.html</loc>
+<lastmod>2014-07-28T09:31:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/my-first-post.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/my-first-post.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/category/thoughts.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/category/thoughts.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/tag/python.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/tag/python.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/tag/whateveryouwant.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/tag/whateveryouwant.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/tag/blogging.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/tag/blogging.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ryanpdwyer.github.io/author/me.html</loc>
+<loc>http://ryanpdwyer.github.io/ryanblog/author/me.html</loc>
 <lastmod>2013-10-14T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
