@@ -7,3 +7,6 @@ Author: Me
 Summary: Where I detail my first post
 
 Hello world, here's my first post!
+Let's try adding an example ipython Notebook.
+
+{% notebook example_notebook.ipynb %}
