@@ -1,3 +1,4 @@
 *.pyc
 output/
 cache/
+content/notebooks/.ipynb_checkpoints/
